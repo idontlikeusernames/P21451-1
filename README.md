@@ -6,3 +6,6 @@ Our current team members include:
 Dr. John Scmalzel, Rowan University Department of Electrical and Computer Engineering
 
 Russell Trafford, Graduate Student at Rowan University
+
+Andrew DeMartino, Undergraduate Student at Rowan University
+
