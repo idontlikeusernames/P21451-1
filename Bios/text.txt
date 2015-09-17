@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This should not be on the master yet until i merge the branches
 
 
 INSERT ASCII THING HERE
+=======
+This should not be on the master yet until i merge the branches. or should it.
+>>>>>>> 8b1fbdc8ea2f18bb56ec9b835e9f1b0831e43c6a
