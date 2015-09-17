@@ -7,4 +7,8 @@ Dr. John Scmalzel, Rowan University Department of Electrical and Computer Engine
 
 Russell Trafford, Graduate Student at Rowan University
 
+<<<<<<< HEAD
 Frank Cifone, bearded guy, Rowan class of 2017 (hopefully)
+=======
+<(^^,)>
+>>>>>>> 35c76a2555d7872d6d8d82d6ab560b7cb9ec152d
