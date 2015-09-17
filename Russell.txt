@@ -1,0 +1,4 @@
+This is just a simple text file containing some information about me.
+
+We will utilize this as a simple way to see how github manages to merge, pull, and push items to and from repositories
+
